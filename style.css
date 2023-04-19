@@ -1,1 +1,8 @@
+: root{
+  --fundo: #00030c;
+  --cor-texto: #ffffff;
+}
+body {
+  background-color: var(--fundo);
+  {
 h1 {color:darkgreen;}
